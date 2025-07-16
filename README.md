@@ -68,10 +68,10 @@ lib/
 
 1. Clone the repository:
    ```
+   ```
    git clone https://github.com/angiemelo/how-long-app.git
    cd how-long-app
    ```
-
 
 2. Get dependencies:<p>
     `flutter pub get`
@@ -87,7 +87,7 @@ lib/
 - 🔔 Notifications when a countdown is near
 
 ## Acknowledgements
-Huge thanks to my dad, who inspired this app with one sentence:<br>
+Huge thank you to my dad, who inspired this app with one sentence:<p>>
 *"Only five more years and four months to go!"*
 
 - Flutter Documentation https://flutter.dev/docs
