@@ -28,8 +28,8 @@ If you would like to learn more about the thinking process, my journey can be fo
 ---
 
 ## Project Structure
-
-`lib/
+```
+lib/
 ├── main.dart
 ├── screens/
 │ ├── home_screen.dart
@@ -45,7 +45,14 @@ If you would like to learn more about the thinking process, my journey can be fo
 ├── util/
 │ └── functions.dart
 └── widgets/
-└── countdown_display.dart`
+└── countdown_display.dart
+```
+---
+
+## 📱 Screenshots
+
+<img src="assets/imgs/screenshots/initialScreen.jpg" width="300"/>
+<img src="assets/imgs/screenshots/countdownScreen.jpg" width="300"/>
 
 ---
 
@@ -60,28 +67,28 @@ If you would like to learn more about the thinking process, my journey can be fo
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/angiemelo/howLong.git
+   ```
+   git clone https://github.com/angiemelo/how-long-app.git
    cd how-long-app
+   ```
 
 
-2. Get dependencies:
-    flutter pub get
+2. Get dependencies:<p>
+    `flutter pub get`
 
-3. Run the app:
-    flutter run
-
+3. Run the app:<p>
+    `flutter run`
 
 ## Future Ideas
 - 🥳 Automatically add birthday countdowns
 - 🖼️ Personalised background images for each countdown
 - ☁️ Cloud sync and multi-device support
-- 🎨 Custom themes or accent colors
+- 🎨 Custom themes or accent colours
 - 🔔 Notifications when a countdown is near
 
-
 ## Acknowledgements
-Huge thanks to my dad, who inspired this app with one sentence:
-> "Only five more years and four months to go!"
+Huge thanks to my dad, who inspired this app with one sentence:<br>
+*"Only five more years and four months to go!"*
 
 - Flutter Documentation https://flutter.dev/docs
 - Riverpod Package https://pub.dev/packages/flutter_riverpod
