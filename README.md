@@ -28,7 +28,7 @@ If you would like to learn more about the thinking process, my journey can be fo
 ---
 
 ## Project Structure
-
+```
 lib/
 ├── main.dart
 ├── screens/
@@ -46,7 +46,7 @@ lib/
 │ └── functions.dart
 └── widgets/
 └── countdown_display.dart
-
+```
 ---
 
 ## 🛠️ Getting Started
@@ -60,29 +60,28 @@ lib/
 ### Installation
 
 1. Clone the repository:
+   ```
    git clone https://github.com/angiemelo/how-long-app.git
    cd how-long-app
+   ```
 
 
-2. Get dependencies:
-    flutter pub get
+2. Get dependencies:<p>
+    `flutter pub get`
 
-3. Run the app:
-    flutter run
-
-## Design Philosophy
-This app was designed with simplicity, clarity, and real-world usability in mind. Each design decision — from the card layout to the edit buttons — was made to reduce friction and make the experience intuitive for all users. Even the floating action button was repurposed to enhance navigation rather than clutter it.
+3. Run the app:<p>
+    `flutter run`
 
 ## Future Ideas
-🥳 Automatically add birthday countdowns
-🖼️ Personalised background images for each countdown
-☁️ Cloud sync and multi-device support
-🎨 Custom themes or accent colors
-🔔 Notifications when a countdown is near
+- 🥳 Automatically add birthday countdowns
+- 🖼️ Personalised background images for each countdown
+- ☁️ Cloud sync and multi-device support
+- 🎨 Custom themes or accent colours
+- 🔔 Notifications when a countdown is near
 
 ## Acknowledgements
-Huge thanks to my dad, who inspired this app with one sentence:
-"Only five more years and four months to go!"
+Huge thanks to my dad, who inspired this app with one sentence:<br>
+*"Only five more years and four months to go!"*
 
 - Flutter Documentation https://flutter.dev/docs
 - Riverpod Package https://pub.dev/packages/flutter_riverpod
@@ -91,6 +90,6 @@ Huge thanks to my dad, who inspired this app with one sentence:
 MIT License © 2025 [aMelo]
 
 ## 👾 Author
-Angela Melo
-Computing and IT Student at the Open University
+Angela Melo<br>
+Computing and IT Student at the Open University<br>
 Inspired by complexity, driven by change and woven with intent.
