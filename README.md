@@ -49,6 +49,13 @@ lib/
 ```
 ---
 
+## 📱 Screenshots
+
+<img src="assets/screenshots/homeScreen.png" width="300"/>
+<img src="assets/screenshots/countdownScreen.png" width="300"/>
+
+---
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
